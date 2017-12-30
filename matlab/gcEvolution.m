@@ -1,9 +1,6 @@
 %% The Evolution of the Genetic Code
 %
 
-% This website is a good starting point.
-web( 'http://www.evolvingcode.net' );
-
 %% How is DNA translated?
 %
 % There are many steps required to translate DNA into a protein.  The first
